@@ -57,8 +57,7 @@ O projeto segue uma abordagem orientada a negócio:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/arthuralexandre10aa-sys/FIAP_tech_challenge_fase_01.git
 ```
 
 2. Instale as dependências:
@@ -70,8 +69,7 @@ pip install -r requirements.txt
 3. Execute os notebooks:
 
 ```bash
-jupyter notebook
-```
+tech_challenge_fase_01_Arthur_Alexandre```
 
 ---
 
